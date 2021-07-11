@@ -3,7 +3,7 @@
 
 ## 转载自知乎的记录
 
-[事件描述](https://github.com/USTBInternShip/Record_of_sins/blob/main/zhihu1.md)
+[事件描述](https://github.com/USTBInternShip/Record_of_sins/blob/main/zhihu1.md)  
 [旁观者感受](https://github.com/USTBInternShip/Record_of_sins/blob/main/zhihu2.md)
 
 ## 关于生产队强制安排学生996，并且周末加班的消息
