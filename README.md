@@ -4,7 +4,7 @@
 ## 转载自知乎的记录
 
 [事件描述](https://github.com/USTBInternShip/Record_of_sins/blob/main/zhihu1.md)  
-[旁观者感受](https://github.com/USTBInternShip/Record_of_sins/blob/main/zhihu2.md)
+[旁观者感受](https://github.com/USTBInternShip/Record_of_sins/blob/main/zhihu2.md)  
 [给学弟学妹的建议](https://github.com/USTBInternShip/Record_of_sins/blob/main/zhihu3.md)
 
 
