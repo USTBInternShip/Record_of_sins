@@ -1,6 +1,10 @@
 # Record_of_sins
 记录北京科技大学计算机专业生产实习的sin
 
+## 转载自知乎的记录
+
+[事件描述](https://github.com/USTBInternShip/Record_of_sins/blob/main/zhihu1)
+
 ## 关于生产队强制安排学生996，并且周末加班的消息
 
 S代表学生，L代表某人
