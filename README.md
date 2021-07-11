@@ -6,6 +6,10 @@
 [事件描述](https://github.com/USTBInternShip/Record_of_sins/blob/main/zhihu1.md)  
 [旁观者感受](https://github.com/USTBInternShip/Record_of_sins/blob/main/zhihu2.md)
 
+
+## 聊天记录截图
+![history](https://github.com/USTBInternShip/Record_of_sins/blob/main/v2-923920fd22cdfe1b5d7987e749ecea32_1440w.jpg?raw=true)
+
 ## 关于生产队强制安排学生996，并且周末加班的消息
 
 S代表学生，L代表某人
